@@ -2,6 +2,10 @@
 
 
 
+##### 2022.07.11更新
+
+
+
 > ### 写这些主要是记录自己在学习使用iOS，RN和Flutter以及前端知识的过程中遇到的一些问题整理的解决方法和一些知识的整理，有很多的资料的资料来源于官网，其他博主的资料等途径，觉得不错就来个⭐️吧 ^_^。 如侵，请联系我，希望可以帮助到你 ヾ(◍°∇°◍)ﾉﾞ。
 
 
@@ -46,9 +50,13 @@
 
 2. #### [**iOS和RN混编解决内存无限增长**](https://github.com/PhoenixLeeSin/PhoenixLeeSin.github.io/blob/main/RN/iOS%E5%92%8CRN%E6%B7%B7%E7%BC%96%E8%A7%A3%E5%86%B3%E5%86%85%E5%AD%98%E6%97%A0%E9%99%90%E5%A2%9E%E9%95%BF.md)
 
-2. #### [**RN常见错误问题处理**](https://github.com/PhoenixLeeSin/PhoenixLeeSin.github.io/blob/main/RN/RN%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF%E9%97%AE%E9%A2%98%E5%A4%84%E7%90%86.md)
+3. #### [**RN常见错误问题处理**](https://github.com/PhoenixLeeSin/PhoenixLeeSin.github.io/blob/main/RN/RN%E5%B8%B8%E8%A7%81%E9%94%99%E8%AF%AF%E9%97%AE%E9%A2%98%E5%A4%84%E7%90%86.md)
 
+2. [**RN 生成的安卓工程配置文件以及问题处理**](https://github.com/PhoenixLeeSin/PhoenixLeeSin.github.io/blob/main/RN/RN%20%E7%94%9F%E6%88%90%E7%9A%84%E5%AE%89%E5%8D%93%E5%B7%A5%E7%A8%8B%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BB%A5%E5%8F%8A%E9%97%AE%E9%A2%98%E5%A4%84%E7%90%86.md)
 
+5. [**react-native navigationOptions调用组件方法**](https://github.com/PhoenixLeeSin/PhoenixLeeSin.github.io/blob/main/RN/react-native%20navigationOptions%E8%B0%83%E7%94%A8%E7%BB%84%E4%BB%B6%E6%96%B9%E6%B3%95.md)
+6. [**在VSCode配置RN的ESLint**](https://github.com/PhoenixLeeSin/PhoenixLeeSin.github.io/blob/main/RN/%E5%9C%A8VSCode%E9%85%8D%E7%BD%AERN%E7%9A%84ESLint.md)
+7. [**CodePush命令**](https://github.com/PhoenixLeeSin/PhoenixLeeSin.github.io/blob/main/RN/CodePush%E5%91%BD%E4%BB%A4.md)
 
 ## 前端基础知识大杂烩
 
