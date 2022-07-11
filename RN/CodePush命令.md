@@ -177,6 +177,20 @@ react-native bundle --entry-file index.js --platform android --dev true --bundle
 react-native bundle --entry-file index.js --platform android --dev false --bundle-output ./android/app/src/main/assets/index.android.bundle --assets-dest ./android/app/src/main/res/
 ```
 
+#### 发布 
+
+```
+code-push release-react ios_rngxt ios -t 1.0.0 -d Production 
+```
+
+
+
+#### WebStorm连接安卓真机命令
+
+```
+ react-native run-android --variant=DevDebug
+```
+
 
 
 #### 查看更新的详细信息 [测试 / 生产]
@@ -302,9 +316,3 @@ public class MainApplication extends Application implements ReactApplication {
 }
 
 ```
-
-
-
-
-
-### 
