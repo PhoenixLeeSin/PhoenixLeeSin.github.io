@@ -61,7 +61,7 @@ try {
 
 #### 2. 配置vue.config
 
-####   vue.config.js中的module.xports中添加如下，然后重启
+####   vue.config.js中的module.exports中添加如下，然后重启
 
 ```javascript
 devServer: {
