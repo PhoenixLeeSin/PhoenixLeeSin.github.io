@@ -316,3 +316,5 @@ public class MainApplication extends Application implements ReactApplication {
 }
 
 ```
+
+商户-运营人员,商户-自提人员,商户-积分人员,商户-客服人员,商户-积分调整审核员,权益app

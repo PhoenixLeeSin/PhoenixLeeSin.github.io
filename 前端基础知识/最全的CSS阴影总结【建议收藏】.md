@@ -6,7 +6,7 @@
 
 ![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9962894576be47b2aa81087f1a91cd96~tplv-k3u1fbpfcp-watermark.awebp)
 
-```
+```css
 /*四周外阴影*/
 box-shadow: 0 0 3px 3px #ccc;
 /*四周内阴影*/

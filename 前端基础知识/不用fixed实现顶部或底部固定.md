@@ -25,7 +25,7 @@
 
 html 结构
 
-```
+```vue
 ...
 <body class="flex">
   <div class="header" id="header">
@@ -38,13 +38,11 @@ html 结构
   <div class="footer">
     底部
   </div>
- ...
-复制代码
 ```
 
 css 代码如下
 
-```
+```scss
 .flex {
   position: absolute;
   top: 0;
